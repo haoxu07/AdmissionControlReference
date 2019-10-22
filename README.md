@@ -1,1 +1,1 @@
-#1 Adaptive Overload Control for Busy Internet Servers 
+1. Adaptive Overload Control for Busy Internet Servers 
