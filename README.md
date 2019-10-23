@@ -1,4 +1,4 @@
-### Adaptive Overload Control for Busy Internet Servers 
+## Adaptive Overload Control for Busy Internet Servers 
 #### Internally monitoring the performance of the service, which is decomposed into a set of event-driven stages connected with request queues. By controlling the rate at which each stage admits requests, the service can perform focused overload management, for example, by filtering only those requests that lead to resource bottlenecks.
 @inproceedings{welsh2003adaptive,
   title={Adaptive Overload Control for Busy Internet Servers.},
@@ -8,7 +8,7 @@
   year={2003},
   organization={Seattle, WA}
 }
-### Taiji: managing global user traffic for large-scale internet services at the edge
+## Taiji: managing global user traffic for large-scale internet services at the edge
 #### Policy, assigning traffic objects at the edge to the data centers to satisfy service-level objectives. Taiji uses a constraint optimization solver to generate an optimal routing table that specifies the fractions of traffic each edge node will distribute to different data centers.
 @inproceedings{chou2019taiji,
   title={Taiji: managing global user traffic for large-scale internet services at the edge},
@@ -18,7 +18,7 @@
   year={2019},
   organization={ACM}
 }
-### Overload Control for Scaling WeChat Microservices
+## Overload Control for Scaling WeChat Microservices
 #### It manages overload at the microservice granule such that each microservice monitors its load status in real time and triggers load shedding in a collaborative manner among its relevant services when overload is detected. 
    @inproceedings{zhou2018overload,
   title={Overload Control for Scaling WeChat Microservices},
@@ -29,7 +29,7 @@
   organization={ACM}
 }
 
-### Admission control of API requests in OpenStack
+## Admission control of API requests in OpenStack
 #### We confirmed that admission control could improve the performance of OpenStack services by more than 50% in an overloaded situation. We also proposed a heuristic algorithm that adaptively tuned the concurrent connection limit by monitoring the statistics of the completed API requests obtained from a proxy server. Our experimental evaluation revealed that our algorithm helped avoid severe performance degradation in OpenStack.
 @inproceedings{matsuki2017admission,
   title={Admission control of API requests in OpenStack},
@@ -40,14 +40,14 @@
   organization={IEEE}
 }
 
-### WebQ: A Virtual Queue For Improving User Experience During Web Server Overload
+## WebQ: A Virtual Queue For Improving User Experience During Web Server Overload
 #### TokenGen and TokenCheck, that together shape incoming load to match server capacity. 
 @article{sureshwebq,
   title={WebQ: A Virtual Queue For Improving User Experience During Web Server Overload},
   author={Suresh, Murali and Mondal, Ravi Shankar and Thomas, Stanly and Vutukuru, Mythili}
 }
 
-### Kraken: Leveraging Live Traffic Tests to Identify and Resolve Resource Utilization Bottlenecks in Large Scale Web Services
+## Kraken: Leveraging Live Traffic Tests to Identify and Resolve Resource Utilization Bottlenecks in Large Scale Web Services
 #### 
 
 ### Maelstrom: Mitigating Datacenter-level Disasters by Draining Interdependent Traffic Safely and Efficiently
