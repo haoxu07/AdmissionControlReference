@@ -39,3 +39,23 @@
   year={2017},
   organization={IEEE}
 }
+
+### WebQ: A Virtual Queue For Improving User Experience During Web Server Overload
+#### TokenGen and TokenCheck, that together shape incoming load to match server capacity. 
+@article{sureshwebq,
+  title={WebQ: A Virtual Queue For Improving User Experience During Web Server Overload},
+  author={Suresh, Murali and Mondal, Ravi Shankar and Thomas, Stanly and Vutukuru, Mythili}
+}
+
+### Kraken: Leveraging Live Traffic Tests to Identify and Resolve Resource Utilization Bottlenecks in Large Scale Web Services
+#### 
+
+### Maelstrom: Mitigating Datacenter-level Disasters by Draining Interdependent Traffic Safely and Efficiently
+#### Maelstrom provides a traffic management framework with modular, reusable primitives that can be composed to safely and efficiently drain the traffic of interdependent services from one or more failing datacenters to the healthy ones. Maelstrom ensures safety by encoding inter-service dependencies and resource constraints. Maelstrom uses health monitoring to implement feedback control so that all specified constraints are satisfied by the traffic drains and recovery procedures executed during disaster mitigation. Maelstrom exploits parallelism to drain and restore independent traffic sources efficiently.
+@inproceedings{veeraraghavan2018maelstrom,
+  title={Maelstrom: Mitigating datacenter-level disasters by draining interdependent traffic safely and efficiently},
+  author={Veeraraghavan, Kaushik and Meza, Justin and Michelson, Scott and Panneerselvam, Sankaralingam and Gyori, Alex and Chou, David and Margulis, Sonia and Obenshain, Daniel and Padmanabha, Shruti and Shah, Ashish and others},
+  booktitle={13th $\{$USENIX$\}$ Symposium on Operating Systems Design and Implementation ($\{$OSDI$\}$ 18)},
+  pages={373--389},
+  year={2018}
+}
