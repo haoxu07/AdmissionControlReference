@@ -28,3 +28,14 @@
   year={2018},
   organization={ACM}
 }
+
+### Admission control of API requests in OpenStack
+#### We confirmed that admission control could improve the performance of OpenStack services by more than 50% in an overloaded situation. We also proposed a heuristic algorithm that adaptively tuned the concurrent connection limit by monitoring the statistics of the completed API requests obtained from a proxy server. Our experimental evaluation revealed that our algorithm helped avoid severe performance degradation in OpenStack.
+@inproceedings{matsuki2017admission,
+  title={Admission control of API requests in OpenStack},
+  author={Matsuki, Tatsuma and Iwamatsu, Noboru},
+  booktitle={2017 IFIP/IEEE Symposium on Integrated Network and Service Management (IM)},
+  pages={10--18},
+  year={2017},
+  organization={IEEE}
+}
