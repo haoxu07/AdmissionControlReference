@@ -69,3 +69,14 @@
   year={2002},
   organization={IEEE}
 }
+
+## 8. Distributed Resource Management Across Process Boundaries
+#### A framework for building SOAs that transparently adapts rate limiters and request schedulers systemwide according to operator policies to satisfy end-to-end goals while responding to changing system conditions.  Trace driven evaluation. 
+@inproceedings{suresh2017distributed,
+  title={Distributed resource management across process boundaries},
+  author={Suresh, Lalith and Bodik, Peter and Menache, Ishai and Canini, Marco and Ciucu, Florin},
+  booktitle={Proceedings of the 2017 Symposium on Cloud Computing},
+  pages={611--623},
+  year={2017},
+  organization={ACM}
+}
