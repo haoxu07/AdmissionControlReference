@@ -48,7 +48,7 @@
 }
 
 
-### Maelstrom: Mitigating Datacenter-level Disasters by Draining Interdependent Traffic Safely and Efficiently
+## Maelstrom: Mitigating Datacenter-level Disasters by Draining Interdependent Traffic Safely and Efficiently
 #### Maelstrom provides a traffic management framework with modular, reusable primitives that can be composed to safely and efficiently drain the traffic of interdependent services from one or more failing datacenters to the healthy ones. Maelstrom ensures safety by encoding inter-service dependencies and resource constraints. Maelstrom uses health monitoring to implement feedback control so that all specified constraints are satisfied by the traffic drains and recovery procedures executed during disaster mitigation. Maelstrom exploits parallelism to drain and restore independent traffic sources efficiently.
 @inproceedings{veeraraghavan2018maelstrom,
   title={Maelstrom: Mitigating datacenter-level disasters by draining interdependent traffic safely and efficiently},
@@ -58,8 +58,8 @@
   year={2018}
 }
 
-### Session-based overload control in QoS aware Web servers
-## the QoS-aware session-based admission control by exploiting the dependencies of sessions to improve the service quality during service overload. However, these techniques favor long-lived sessions, making them unsuitable for the WeChat application which incorporates tremendous short-lived and medium-lived sessions.
+## Session-based overload control in QoS aware Web servers
+#### the QoS-aware session-based admission control by exploiting the dependencies of sessions to improve the service quality during service overload. However, these techniques favor long-lived sessions, making them unsuitable for the WeChat application which incorporates tremendous short-lived and medium-lived sessions.
 @inproceedings{chen2002session,
   title={Session-based overload control in qos-aware web servers},
   author={Chen, Huamin and Mohapatra, Prasant},
