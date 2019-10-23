@@ -57,3 +57,15 @@
   pages={373--389},
   year={2018}
 }
+
+### Session-based overload control in QoS aware Web servers
+## the QoS-aware session-based admission control by exploiting the dependencies of sessions to improve the service quality during service overload. However, these techniques favor long-lived sessions, making them unsuitable for the WeChat application which incorporates tremendous short-lived and medium-lived sessions.
+@inproceedings{chen2002session,
+  title={Session-based overload control in qos-aware web servers},
+  author={Chen, Huamin and Mohapatra, Prasant},
+  booktitle={Proceedings. Twenty-First Annual Joint Conference of the IEEE Computer and Communications Societies},
+  volume={2},
+  pages={516--524},
+  year={2002},
+  organization={IEEE}
+}
