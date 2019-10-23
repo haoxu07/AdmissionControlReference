@@ -1,4 +1,4 @@
-## Adaptive Overload Control for Busy Internet Servers 
+## 1. Adaptive Overload Control for Busy Internet Servers 
 #### Internally monitoring the performance of the service, which is decomposed into a set of event-driven stages connected with request queues. By controlling the rate at which each stage admits requests, the service can perform focused overload management, for example, by filtering only those requests that lead to resource bottlenecks.
 @inproceedings{welsh2003adaptive,
   title={Adaptive Overload Control for Busy Internet Servers.},
@@ -8,7 +8,7 @@
   year={2003},
   organization={Seattle, WA}
 }
-## Taiji: managing global user traffic for large-scale internet services at the edge
+## 2.Taiji: managing global user traffic for large-scale internet services at the edge
 #### Policy, assigning traffic objects at the edge to the data centers to satisfy service-level objectives. Taiji uses a constraint optimization solver to generate an optimal routing table that specifies the fractions of traffic each edge node will distribute to different data centers.
 @inproceedings{chou2019taiji,
   title={Taiji: managing global user traffic for large-scale internet services at the edge},
@@ -18,7 +18,7 @@
   year={2019},
   organization={ACM}
 }
-## Overload Control for Scaling WeChat Microservices
+## 3.Overload Control for Scaling WeChat Microservices
 #### It manages overload at the microservice granule such that each microservice monitors its load status in real time and triggers load shedding in a collaborative manner among its relevant services when overload is detected. 
    @inproceedings{zhou2018overload,
   title={Overload Control for Scaling WeChat Microservices},
@@ -29,7 +29,7 @@
   organization={ACM}
 }
 
-## Admission control of API requests in OpenStack
+## 4.Admission control of API requests in OpenStack
 #### We confirmed that admission control could improve the performance of OpenStack services by more than 50% in an overloaded situation. We also proposed a heuristic algorithm that adaptively tuned the concurrent connection limit by monitoring the statistics of the completed API requests obtained from a proxy server. Our experimental evaluation revealed that our algorithm helped avoid severe performance degradation in OpenStack.
 @inproceedings{matsuki2017admission,
   title={Admission control of API requests in OpenStack},
@@ -40,7 +40,7 @@
   organization={IEEE}
 }
 
-## WebQ: A Virtual Queue For Improving User Experience During Web Server Overload
+## 5.WebQ: A Virtual Queue For Improving User Experience During Web Server Overload
 #### TokenGen and TokenCheck, that together shape incoming load to match server capacity. 
 @article{sureshwebq,
   title={WebQ: A Virtual Queue For Improving User Experience During Web Server Overload},
@@ -48,7 +48,7 @@
 }
 
 
-## Maelstrom: Mitigating Datacenter-level Disasters by Draining Interdependent Traffic Safely and Efficiently
+## 6.Maelstrom: Mitigating Datacenter-level Disasters by Draining Interdependent Traffic Safely and Efficiently
 #### Maelstrom provides a traffic management framework with modular, reusable primitives that can be composed to safely and efficiently drain the traffic of interdependent services from one or more failing datacenters to the healthy ones. Maelstrom ensures safety by encoding inter-service dependencies and resource constraints. Maelstrom uses health monitoring to implement feedback control so that all specified constraints are satisfied by the traffic drains and recovery procedures executed during disaster mitigation. Maelstrom exploits parallelism to drain and restore independent traffic sources efficiently.
 @inproceedings{veeraraghavan2018maelstrom,
   title={Maelstrom: Mitigating datacenter-level disasters by draining interdependent traffic safely and efficiently},
@@ -58,7 +58,7 @@
   year={2018}
 }
 
-## Session-based overload control in QoS aware Web servers
+## 7.Session-based overload control in QoS aware Web servers
 #### the QoS-aware session-based admission control by exploiting the dependencies of sessions to improve the service quality during service overload. However, these techniques favor long-lived sessions, making them unsuitable for the WeChat application which incorporates tremendous short-lived and medium-lived sessions.
 @inproceedings{chen2002session,
   title={Session-based overload control in qos-aware web servers},
