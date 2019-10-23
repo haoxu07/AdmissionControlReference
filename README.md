@@ -80,3 +80,14 @@
   year={2017},
   organization={ACM}
 }
+
+## 9. An Admission Control Scheme for Predictable Server Response Time for Web Accesses
+#### provide different levels of services based on the server workload characteristics. Service quality is ensured by periodical allocation of system resources based on the estimation of request rate and service requirements of prioritized tasks. Admission of lower priority tasks is restricted during high load periods to prevent denial-of-services to high priority tasks. A doublequeue structure is implemented to reduce the eects of estimation inaccuracy and to utilize the spare capacity of the server, thus increasing the system throughput. Response delays of the high priority tasks are bounded by the length of the prediction period.
+@inproceedings{chen2001admission,
+  title={An admission control scheme for predictable server response time for web accesses.},
+  author={Chen, Xiangping and Mohapatra, Prasant and Chen, Huamin},
+  booktitle={WWW},
+  pages={545--554},
+  year={2001},
+  organization={Citeseer}
+}
