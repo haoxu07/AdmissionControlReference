@@ -143,3 +143,16 @@
   year={2016},
   publisher={Springer}
 }
+
+## 14. SLA-based admission control for a Software-as-a-Service provider in Cloud computing environments
+#### we propose innovative admission control and scheduling algorithms for SaaS providers to effectively utilise public Cloud resources to maximize profit by minimizing cost and improving customer satisfaction level. Furthermore, we conduct an extensive evaluation study to analyse which solution suits best in which scenario to maximize SaaS provider’s profit. Simulation results show that our proposed algorithms provide substantial improvement (up to 40% cost saving) over reference ones across all ranges of variation in QoS parameters.
+@article{wu2012sla,
+  title={SLA-based admission control for a Software-as-a-Service provider in Cloud computing environments},
+  author={Wu, Linlin and Garg, Saurabh Kumar and Buyya, Rajkumar},
+  journal={Journal of Computer and System Sciences},
+  volume={78},
+  number={5},
+  pages={1280--1299},
+  year={2012},
+  publisher={Elsevier}
+}
