@@ -91,3 +91,16 @@
   year={2001},
   organization={Citeseer}
 }
+
+## 10. QoS-Aware Admission Control and Resource Allocation in Underlay Device-to-Device Spectrum-Sharing Networks
+#### we introduce an objective that combines the access rate and the network sum rate and then maximize it subject to users’ quality-of-service requirements and resource allocation constraints. Due to its mixed combination, we focus on designing cost-efficient and easyto-implement algorithms instead of finding globally optimal but exponentially complex solutions. By decomposition, we first devise two novel mode selection criteria and an admission-prioritized partner assignment scheme and obtain closed-form solutions for both admission control and power allocation.
+@article{li2016qos,
+  title={QoS-aware admission control and resource allocation in underlay device-to-device spectrum-sharing networks},
+  author={Li, Yuzhou and Jiang, Tao and Sheng, Min and Zhu, Yiting},
+  journal={IEEE Journal on selected areas in communications},
+  volume={34},
+  number={11},
+  pages={2874--2886},
+  year={2016},
+  publisher={IEEE}
+}
