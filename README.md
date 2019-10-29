@@ -130,3 +130,16 @@
   year={2016},
   publisher={IEEE}
 }
+
+## Admission control in cloud computing using game theory
+#### the concept of game theory in admission control for Cloud requests. A model has been proposed and its performance study is done by simulating it in CloudSim simulator. Results are encouraging and may suggest for its possible inclusion in the Cloud middleware.
+@article{baranwal2016admission,
+  title={Admission control in cloud computing using game theory},
+  author={Baranwal, Gaurav and Vidyarthi, Deo Prakash},
+  journal={The Journal of Supercomputing},
+  volume={72},
+  number={1},
+  pages={317--346},
+  year={2016},
+  publisher={Springer}
+}
