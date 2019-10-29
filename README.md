@@ -118,3 +118,15 @@
   publisher={IOS Press}
 }
 
+## 12. Joint admission control and routing via approximate dynamic programming for streaming video over software-defined networking
+####  Optimization problem of joint admission control and routing for the video streaming service in wired software-defined networking (SDN).
+@article{yang2016joint,
+  title={Joint admission control and routing via approximate dynamic programming for streaming video over software-defined networking},
+  author={Yang, Jian and Zhu, Kunjie and Ran, Yongyi and Cai, Weizhe and Yang, Enzhong},
+  journal={IEEE Transactions on Multimedia},
+  volume={19},
+  number={3},
+  pages={619--631},
+  year={2016},
+  publisher={IEEE}
+}
