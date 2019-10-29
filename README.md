@@ -104,3 +104,17 @@
   year={2016},
   publisher={IEEE}
 }
+
+## 11. FACS-MP: A fuzzy admission control system with many priorities for wireless cellular networks and its performance evaluation
+#### considering the priority of the on-going connections. We called this system FACS-P. In FACS-P, as priority parameter, we considered only one parameter (service request). We extended our work by adding different priorities. We call this system FACS-MP. In this paper, we evaluate by simulations the performance of the proposed system. From the simulation results, we conclude that the FACS-MP makes a good differentiation of different services and has better behaviour than FACS-P.
+@article{matsuo2015facs,
+  title={FACS-MP: a fuzzy admission control system with many priorities for wireless cellular networks and its performance evaluation},
+  author={Matsuo, Keita and Elmazi, Donald and Liu, Yi and Sakamoto, Shinji and Mino, Gjergji and Barolli, Leonard},
+  journal={Journal of High Speed Networks},
+  volume={21},
+  number={1},
+  pages={1--14},
+  year={2015},
+  publisher={IOS Press}
+}
+
