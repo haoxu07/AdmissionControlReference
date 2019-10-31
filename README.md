@@ -167,3 +167,14 @@
   year={2010},
   organization={IEEE}
 }
+
+## A Method for Transparent Admission Control and Request Scheduling in E-Commerce Web Sites
+#### Our method externally observes execution costs of requests online, distinguishing different request types, and performs overload protection and preferential scheduling using relatively simple measurements and a straightforward control mechanism.
+@inproceedings{elnikety2004method,
+  title={A method for transparent admission control and request scheduling in e-commerce web sites},
+  author={Elnikety, Sameh and Nahum, Erich and Tracey, John and Zwaenepoel, Willy},
+  booktitle={Proceedings of the 13th international conference on World Wide Web},
+  pages={276--286},
+  year={2004},
+  organization={ACM}
+}
