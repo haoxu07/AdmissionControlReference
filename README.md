@@ -156,3 +156,14 @@
   year={2012},
   publisher={Elsevier}
 }
+
+## 15. Q-Cop: Avoiding bad query mixes to minimize client timeouts under heavy loads
+#### we show that the response times of different types of queries can vary significantly depending not just on the number of queries being processed but on the mix of other queries that are running simultaneously. We develop a model of expected query execution times that accounts for the mix of queries being executed and integrate this model into a three-tiered system to make admission control decisions. Our results show that this approach makes more informed decisions about which queries to reject and as a result significantly reduces the number of requests that time out.
+@inproceedings{tozer2010q,
+  title={Q-Cop: Avoiding bad query mixes to minimize client timeouts under heavy loads},
+  author={Tozer, Sean and Brecht, Tim and Aboulnaga, Ashraf},
+  booktitle={2010 IEEE 26th International Conference on Data Engineering (ICDE 2010)},
+  pages={397--408},
+  year={2010},
+  organization={IEEE}
+}
