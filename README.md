@@ -199,3 +199,22 @@
   year={2011},
   organization={IEEE}
 }
+
+## 19. Adaptive Query Scheduling for Mixed Database Workloads with Multiple Objectives
+
+@article{krompasstum2010adaptive,
+  title={Adaptive query scheduling for mixed database workloads with multiple objectives},
+  author={KrompassTUM, Stefan and KunoHPL, Harumi and WilkinsonHPL, Kevin and DayalHPL, Umeshwar and KemperTUM, Alfons},
+  year={2010}
+}
+
+## 20. Supporting Cost-Efficient Multi-tenant Database Services with Service Level Objectives (SLOs)
+#### Quality of Service (QoS) is at the core of the vision of Database as a Service (DBaaS). Traditional approaches in DBaaS often reserve computation resources (e.g. CPU and memory) to satiate tenants’ QoS guarantees under various circumstances, which inevitably results in poor resource utilization, as the tenants’ actual workloads are usually below their expectations described by their Service Level Objectives (SLOs). In this paper, we propose a novel scheme FrugalDB to enhance resource utilization for DBaaS systems with QoS guarantees. FrugalDB accommodates two independent database engines, an in-memory engine for heavy workloads with tight SLOs, and a disk-based engine for light workloads with loose SLOs. By allocating each tenant’ workload to an appropriate engine via workload migration, this dual-engine scheme can substantially save computation resources, and thus consolidate more tenants on a single database server. FrugalDB tries to minimize workload migration cost incurred in moving workloads between the two engines. By an effective workload estimation method and an efficient migration schedule algorithm, FrugalDB responds quickly to workload changes and executes workload migrations with minimal overhead. We evaluate FrugalDB with extensive experiments, which show that it achieves high tenant consolidation rate yet with few performance SLO violations.
+@inproceedings{luo2017supporting,
+  title={Supporting cost-efficient multi-tenant database services with service level objectives (SLOs)},
+  author={Luo, Yifeng and Guo, Junshi and Zhu, Jiaye and Guan, Jihong and Zhou, Shuigeng},
+  booktitle={International Conference on Database Systems for Advanced Applications},
+  pages={592--606},
+  year={2017},
+  organization={Springer}
+}
