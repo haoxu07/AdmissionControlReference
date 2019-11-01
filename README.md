@@ -178,3 +178,13 @@
   year={2004},
   organization={ACM}
 }
+
+## Morpheus: Towards Automated SLOs for Enterprise Clusters
+#### 1) codifies implicit user expectations as explicit Service Level Objectives (SLOs), inferred from historical data, 2) enforces SLOs using novel scheduling techniques that isolate jobs from sharing-induced performance variability, and 3) mitigates inherent performance variance (e.g., due to failures) by means of dynamic reprovisioning of jobs.
+@inproceedings{jyothi2016morpheus,
+  title={Morpheus: Towards automated slos for enterprise clusters},
+  author={Jyothi, Sangeetha Abdu and Curino, Carlo and Menache, Ishai and Narayanamurthy, Shravan Matthur and Tumanov, Alexey and Yaniv, Jonathan and Mavlyutov, Ruslan and Goiri, {\'I}{\~n}igo and Krishnan, Subru and Kulkarni, Janardhan and others},
+  booktitle={12th $\{$USENIX$\}$ Symposium on Operating Systems Design and Implementation ($\{$OSDI$\}$ 16)},
+  pages={117--134},
+  year={2016}
+}
