@@ -179,7 +179,7 @@
   organization={ACM}
 }
 
-## Morpheus: Towards Automated SLOs for Enterprise Clusters
+## 17. Morpheus: Towards Automated SLOs for Enterprise Clusters
 #### 1) codifies implicit user expectations as explicit Service Level Objectives (SLOs), inferred from historical data, 2) enforces SLOs using novel scheduling techniques that isolate jobs from sharing-induced performance variability, and 3) mitigates inherent performance variance (e.g., due to failures) by means of dynamic reprovisioning of jobs.
 @inproceedings{jyothi2016morpheus,
   title={Morpheus: Towards automated slos for enterprise clusters},
@@ -187,4 +187,15 @@
   booktitle={12th $\{$USENIX$\}$ Symposium on Operating Systems Design and Implementation ($\{$OSDI$\}$ 16)},
   pages={117--134},
   year={2016}
+}
+
+## 18. Predicting In-Memory Database Performance for Automating Cluster Management Tasks
+#### We develop a model for predicting whether the assignment of a particular tenant to a server in the cluster will lead to violations of response time goals. This model is then extended to capture drops in capacity incurred by migrating tenants between servers. We present an algorithm for moving tenants around the cluster to ensure that response time goals are met. In so doing, the number of servers in the cluster may be dynamically increased or decreased. The model is also extended to manage multiple copies of a tenant’s data for scalability and availability. We validated the model with an implementation of a multi-tenant clustering framework for SAP’s in-memory column database TREX. 
+@inproceedings{schaffner2011predicting,
+  title={Predicting in-memory database performance for automating cluster management tasks},
+  author={Schaffner, Jan and Eckart, Benjamin and Jacobs, Dean and Schwarz, Christian and Plattner, Hasso and Zeier, Alexander},
+  booktitle={2011 IEEE 27th International Conference on Data Engineering},
+  pages={1264--1275},
+  year={2011},
+  organization={IEEE}
 }
