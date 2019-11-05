@@ -1,5 +1,4 @@
-In this section we study prior work in systems that handles system overload. We group prior
-approaches into two major categories, i.e., admission control systems and methodology.
+In this section we study prior work in systems that handles system overload. 
 
 Admission control for overload management has been studied in databases[ActiveSLA SOCC '11], web services[USITS '03(1), WeChat SoCC2018(3), Taiji SOSP2019(2), Maelstrom OSDI 2018(6),INFOCOMM 2002(7)], networks[FACS-MP 2015]. Taiji SOSP2019(2), Maelstrom OSDI 2018(6). However, most of these previous work are
 designed for the specific service architecture and they do not meet our requirement for overload control of in-memory graph database. 
